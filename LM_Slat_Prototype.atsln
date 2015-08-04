@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "LM_Slat_Prototype", "LM_Slat_Prototype\LM_Slat_Prototype.cproj", "{E2BDF04D-A761-44D1-A145-40DB6D67F1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2BDF04D-A761-44D1-A145-40DB6D67F1D0}.Debug|ARM.ActiveCfg = Debug|ARM
+		{E2BDF04D-A761-44D1-A145-40DB6D67F1D0}.Debug|ARM.Build.0 = Debug|ARM
+		{E2BDF04D-A761-44D1-A145-40DB6D67F1D0}.Release|ARM.ActiveCfg = Release|ARM
+		{E2BDF04D-A761-44D1-A145-40DB6D67F1D0}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
